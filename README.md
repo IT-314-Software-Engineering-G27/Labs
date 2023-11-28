@@ -14,3 +14,4 @@ This is the main repository for all the lab submissions for the course IT314-Sof
 9. Sequence Diagram
 10. Activity Diagram
 11. Class Diagram
+12. Future Scope
