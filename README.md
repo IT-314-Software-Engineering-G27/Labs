@@ -2,7 +2,7 @@
 
 ## Group 27
 
-### Course Project Back-end Repository
+### Course Project Labs and Documentation Repository
 
 # Labs, Diagrams and Documentations
 
